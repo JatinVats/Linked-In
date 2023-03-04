@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/aligned/static/css/main.c0a5ea9b.css",
-    "main.js": "/aligned/static/js/main.d78eab26.js",
-    "static/media/ai.png": "/aligned/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/aligned/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/aligned/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/aligned/static/media/blog03.d922323861096f25274f.png",
-    "static/media/backheader.png": "/aligned/static/media/backheader.534edd76626f7c70cce9.png",
-    "static/media/blog04.png": "/aligned/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/aligned/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/aligned/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/modern.png": "/aligned/static/media/modern.58a766c1b4b0d6b431fa.png",
-    "static/media/people.png": "/aligned/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/aligned/static/media/logo.8ccacfdb0bced3bb819e68efac2d9536.svg",
-    "index.html": "/aligned/index.html",
-    "main.c0a5ea9b.css.map": "/aligned/static/css/main.c0a5ea9b.css.map",
-    "main.d78eab26.js.map": "/aligned/static/js/main.d78eab26.js.map"
+    "main.css": "/aligned-ai/static/css/main.2b74c1be.css",
+    "main.js": "/aligned-ai/static/js/main.cb2acb25.js",
+    "static/media/ai.png": "/aligned-ai/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/aligned-ai/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/aligned-ai/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/aligned-ai/static/media/blog03.d922323861096f25274f.png",
+    "static/media/backheader.png": "/aligned-ai/static/media/backheader.534edd76626f7c70cce9.png",
+    "static/media/blog04.png": "/aligned-ai/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/aligned-ai/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/aligned-ai/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/modern.png": "/aligned-ai/static/media/modern.58a766c1b4b0d6b431fa.png",
+    "static/media/people.png": "/aligned-ai/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/aligned-ai/static/media/logo.8ccacfdb0bced3bb819e68efac2d9536.svg",
+    "index.html": "/aligned-ai/index.html",
+    "main.2b74c1be.css.map": "/aligned-ai/static/css/main.2b74c1be.css.map",
+    "main.cb2acb25.js.map": "/aligned-ai/static/js/main.cb2acb25.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0a5ea9b.css",
-    "static/js/main.d78eab26.js"
+    "static/css/main.2b74c1be.css",
+    "static/js/main.cb2acb25.js"
   ]
 }
